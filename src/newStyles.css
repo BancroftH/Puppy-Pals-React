@@ -1,0 +1,17 @@
+.main {
+  background-color: #73877B;
+  color: #F5E4D7;
+  border-radius: 15%;
+  padding: 10px;
+  margin: auto
+}
+
+.list {
+  list-style-type: none;
+  text-align: justify left;
+}
+
+.listItems {
+  margin: 20px;
+  padding: 10px;
+}
